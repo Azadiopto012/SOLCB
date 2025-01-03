@@ -23,8 +23,8 @@ Smart contracts audited for security and transparency.
 Token Symbol: SOLIGENT
 Total Supply: 1,000,000,000 SOLI
 Distribution:
-Community Rewards: 2%
-Reserve Fund: 2%
+Community Rewards: 3.3%
+Reserve Fund: 3.3%
 Utility:
 Access to AI-powered tools.
 Governance and voting rights.
